@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package>
+    <metadata>
+        <id>EmojiSharp</id>
+        <version>0.2.1</version>
+        <authors>John Mazouri</authors>
+        <licenseUrl>https://github.com/jmazouri/EmojiSharp/blob/master/EmojiSharp/License.txt</licenseUrl>
+        <projectUrl>https://github.com/jmazouri/EmojiSharp</projectUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>A dynamically generated class to help make using Emojis in C# a bit easier.</description>
+        <releaseNotes>Initial Release</releaseNotes>
+        <copyright>Copyright 2015</copyright>
+        <tags>emoji t4 emoticons smilies</tags>
+    </metadata>
+    
+    <files>
+        <file src="Emoji.cs" target="content/EmojiSharp" /> 
+        <file src="License.txt" target="content/EmojiSharp" /> 
+        <file src="EmojiLicense.txt" target="content/EmojiSharp" /> 
+    </files>
+</package>
